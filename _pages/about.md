@@ -26,30 +26,37 @@ Publications
 | :------ |  
 | **Jiayu Li**, Zhiyu He, Yumeng Cui, Chenyang Wang, Chong Chen, Chun Yu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | IMWUT Vol 6, No 3 (Journal). [Online Version](https://JiayuLi-997.github.io/files/IMWUT2022-LiJY-Ubiquitous_Rec.pdf)|  
+
 | **Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution**|  
 | :------ |  
 | Jiayin Wang, Weizhi Ma, **Jiayu Li**, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. |  
 | KDD 2022 (Full). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
+
 | **LifeRec: A Mobile App for Lifelog Recording and Ubiquitous Recommendation**|  
 | :------ |  
 | **Jiayu Li**, Hantian Zhang, Zhiyu He, Rongwu Xu, Pingfei Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | CHIIR 2022 (Demo paper). [Online Version](https://JiayuLi-997.github.io/files/CHIIR2022-LiJY-LifeRec_Demo.pdf)|  
+
 | **THUIR-LL at the NTCIR-16 Lifelog-4 Task: Enhanced Interactive Lifelog Search Engine**|  
 | :------ |  
 | Zhiyu He, **Jiayu Li**, Wenjing Wu, Min Zhang, Yiqun Liu, Shaoping Ma |  
 | NTCIR-16. [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
+
 | **A Difficulty-Aware Framework for Churn Prediction and Intervention in Games**|  
 | :------ |  
 | **Jiayu Li**, Hongyu Lu, Chenyang Wang, Weizhi Ma, Min Zhang, Xiangyu Zhao, Wei Qi, Yiqun Liu, Shaoping Ma. |  
 | KDD 2021 (Full). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
+
 | **Know Yourself: Physical and Psychological Self-awareness with Lifelog**|  
 | :------ |  
 | **Jiayu Li**, Weizhi Ma, Min Zhang, Pengyu Wang, Yiqun Liu, Shaoping Ma. |  
 | Frontiers in Ditigal Health. [Online Version](https://JiayuLi-997.github.io/files/Frontiers2021-LiJY-Lifelog.pdf)|  
+
 | **A multi-level interactive lifelog search engine with user feedback**|  
 | :------ |  
 | **Jiayu Li**, Min Zhang, Weizhi Ma, Yiqun Liu, Shaoping Ma. |  
 | LSC (challenge). [Online Version](https://JiayuLi-997.github.io/files/LSC2020-LiJY-LifelogSearch.pdf)|  
+
 | **THUIR at the NTCIR-15 Micro-activity Retrieval Task**|  
 | :------ |  
 | **Jiayu Li**, Ziyi Ye, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma |  
@@ -69,6 +76,11 @@ Experience
 
 Honor and Awards
 ======
+
+| Year | Honor & Awards |
+| :------ | :------ | 
+| *2021* | GuoQiang Scholarship, Tsinghua University.|
+| *2020* | Excellent Graduate, Tsinhuga University.|
 
 <!-- | Year | Honor & Awards |
 | :------ | :------ | 
