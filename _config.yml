@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Chen （陈佳）"
+title                    : "Jiayu Li (李佳玉)"
 title_separator          : "-"
-name                     : &name "Jia Chen"
+name                     : &name "Jiayu Li"
 description              : &description "personal description"
-url                      : https://xuanyuan14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JiayuLi-997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xuanyuan14/xuanyuan14.github.io"
+repository               : "JiayuLi-997/JiayuLi-997.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jia Chen (陈佳)"
+  name             : "Jiayu Li (李佳玉)"
   avatar           : "profile.jpg"
   bio              : "PhD candidate at Tsinghua University"
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=CGDSORIAAAAJ&view_op=list_works&gmla=AJsN-F5w448ssmM-Hf1yRzJ-n1_zeCAwXausDcz3VZkQDvSibXkXZeIyu1pXosHfZtF4U66P3bPG0ZiyzWU6S00ytBQ3qsAzihqOIRNh5d7BxBQ-TVWO4-Q"
-  email            : "chenjia0831@gmail.com"
+  email            : "lijiayu-997@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Jia_Chen112"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xuanyuan14"
+  github           : "JiayuLi-997"
   google_plus      :
   keybase          :
   instagram        :
