@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "LSC2020 — (Remote)",
+			"uri": "sftp://deep_lsc2020/"
+		},
+		{
+			"name": "lijiayu — (Remote)",
+			"uri": "sftp://fast_local/"
+		}
+	]
+}

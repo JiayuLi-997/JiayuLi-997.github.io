@@ -22,6 +22,11 @@ Education
 Publications
 ======
 
+| **Intent-aware Ranking Ensemble for Personalized Recommendation**|  
+| :------ |  
+| **Jiayu Li**, Peijie Sun, Zhefan Wang, Weizhi Ma, Yangkun Li, Min Zhang, Zhoutian Feng, Daiyue Xue. |  
+| SIGIR 2023 (Full paper). [Preprint Version](https://arxiv.org/abs/2304.07450)|  
+
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets**|  
 | :------ |  
 | **Jiayu Li**, Zhiyu He, Yumeng Cui, Chenyang Wang, Chong Chen, Chun Yu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
@@ -30,7 +35,7 @@ Publications
 | **Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution**|  
 | :------ |  
 | Jiayin Wang, Weizhi Ma, **Jiayu Li**, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. |  
-| KDD 2022 (Full). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
+| KDD 2022 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
 
 | **LifeRec: A Mobile App for Lifelog Recording and Ubiquitous Recommendation**|  
 | :------ |  
@@ -45,7 +50,7 @@ Publications
 | **A Difficulty-Aware Framework for Churn Prediction and Intervention in Games**|  
 | :------ |  
 | **Jiayu Li**, Hongyu Lu, Chenyang Wang, Weizhi Ma, Min Zhang, Xiangyu Zhao, Wei Qi, Yiqun Liu, Shaoping Ma. |  
-| KDD 2021 (Full). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
+| KDD 2021 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
 
 | **Know Yourself: Physical and Psychological Self-awareness with Lifelog**|  
 | :------ |  
