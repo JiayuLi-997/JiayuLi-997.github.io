@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year Ph.D. student in [THUIR](https://thuir.github.io/lab-website-template/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang). My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
+I am now a fourth year Ph.D. student in [THUIR](https://thuir.github.io/lab-website-template/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang). My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
 
 Education
 ======
