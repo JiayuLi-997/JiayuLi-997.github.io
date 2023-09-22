@@ -32,10 +32,20 @@ Publications
 | **Jiayu Li**, Zhiyu He, Yumeng Cui, Chenyang Wang, Chong Chen, Chun Yu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
 | IMWUT Vol 6, No 3 (Journal). [Online Version](https://JiayuLi-997.github.io/files/IMWUT2022-LiJY-Ubiquitous_Rec.pdf)|  
 
+| **A Difficulty-Aware Framework for Churn Prediction and Intervention in Games**|  
+| :------ |  
+| **Jiayu Li**, Hongyu Lu, Chenyang Wang, Weizhi Ma, Min Zhang, Xiangyu Zhao, Wei Qi, Yiqun Liu, Shaoping Ma. |  
+| KDD 2021 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
+
 | **Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution**|  
 | :------ |  
 | Jiayin Wang, Weizhi Ma, **Jiayu Li**, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. |  
 | KDD 2022 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
+
+|**Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development and Evaluation of a Two-step Machine Learning Method**|
+| :------ |  
+|**Jiayu Li**, Zhiyu He, Min Zhang, Weizhi Ma, Ye Jin, Lei Zhang, Shuyang Zhang, Yiqun Liu, Shaoping Ma. |
+|JMIR Infodemiology (Vol 3, 2023) . [Online Version](https://infodemiology.jmir.org/2023/1/e42721/)|
 
 | **LifeRec: A Mobile App for Lifelog Recording and Ubiquitous Recommendation**|  
 | :------ |  
@@ -46,11 +56,6 @@ Publications
 | :------ |  
 | Zhiyu He, **Jiayu Li**, Wenjing Wu, Min Zhang, Yiqun Liu, Shaoping Ma |  
 | NTCIR-16. [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
-
-| **A Difficulty-Aware Framework for Churn Prediction and Intervention in Games**|  
-| :------ |  
-| **Jiayu Li**, Hongyu Lu, Chenyang Wang, Weizhi Ma, Min Zhang, Xiangyu Zhao, Wei Qi, Yiqun Liu, Shaoping Ma. |  
-| KDD 2021 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
 
 | **Know Yourself: Physical and Psychological Self-awareness with Lifelog**|  
 | :------ |  
@@ -67,7 +72,10 @@ Publications
 | **Jiayu Li**, Ziyi Ye, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma |  
 | NTCIR-15 (First place). [Online Version](https://JiayuLi-997.github.io/files/NTCIR2020-LiJY-MART.pdf)|  
 
-
+|**Factors influencing passage of time judgment in individuals’ daily lives: evidence from the experience sampling and diary methods**|
+| :------ |  
+|Yanci Liu, Siyu Ma, **Jiayu Li**, Xi Song, Feng Du, Meihong Zheng|
+|Psychological Research (2023.07).|
 
 Experience
 ======
