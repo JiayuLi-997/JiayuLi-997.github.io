@@ -16,16 +16,27 @@ Education
 | Year | Education |
 | :------ | :------ | 
 | *08.2020-present* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
+| *09.2023-01.2024* | Visiting student, School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. |
 | *09.2016-06.2020* | B.E., Department of Electronic Engineering, Tsinghua University, China. |
 
 
 Publications
 ======
 
+| **A Situation-aware Enhancer for Personalized Recommendation** |
+| :------ |  
+| **Jiayu Li**, Peijie Sun, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang |
+| DASFAA 2024. [Preprint Version](https://arxiv.org/abs/2403.18317)
+
+| **Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations**|
+| :------ |  
+| **Jiayu Li**, Aixin Sun, Weizhi Ma, Peijie Sun, Min Zhang |
+| Arxiv 2024. [Online Version](https://arxiv.org/html/2402.14440v1) |
+
 | **Intent-aware Ranking Ensemble for Personalized Recommendation**|  
 | :------ |  
 | **Jiayu Li**, Peijie Sun, Zhefan Wang, Weizhi Ma, Yangkun Li, Min Zhang, Zhoutian Feng, Daiyue Xue. |  
-| SIGIR 2023 (Full paper). [Preprint Version](https://arxiv.org/abs/2304.07450)|  
+| SIGIR 2023 (Full paper). [Online Version](https://arxiv.org/abs/2304.07450)|  
 
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets**|  
 | :------ |  
@@ -77,9 +88,27 @@ Publications
 |Yanci Liu, Siyu Ma, **Jiayu Li**, Xi Song, Feng Du, Meihong Zheng|
 |Psychological Research (2023.07).|
 
+|**Epidemiological research on rare diseases using large-scale online search queries and reported case data**|
+| :------ |  
+|Lei Zhang, Ye Jin, **Jiayu Li**, Zhiyu He, Dingding Zhang, Min Zhang, Shuyang Zhang|
+|Orphanet Journal of Rare Diseases (2023.08). [Online Version](https://link.springer.com/article/10.1186/s13023-023-02839-7)|
+
+|**Understanding User Immersion in Online Short Video Interaction**|
+| :------ |  
+|Zhiyu He, Shaorun Zhang, Peijie Sun, **Jiayu Li**, Xiaohui Xie, Min Zhang, Yiqun Liu|
+|CIKM 2023 (Full paper). [Online Version](https://dl.acm.org/doi/pdf/10.1145/3583780.3615099)|
+
+|**SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals**|
+| :------ |  
+|Vadim Grigorev, **Jiayu Li**, Weizhi Ma, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang|
+|CHIIR 2024 (Resource paper). [Online Version](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|
+
+Patents
+======
+- 张敏,李佳玉,刘奕群,马少平,苏航,张抒扬,金晔,张磊. 患病率的预测方法、装置、计算机设备和存储介质. (中国专利)。
+
 Experience
 ======
-
 | Year | Experience |
 | :------ | :------ |
 | *12.2021-* | Meituan, Internship. |
@@ -92,6 +121,7 @@ Honor and Awards
 
 | Year | Honor & Awards |
 | :------ | :------ | 
+| *2023* | JiuKun Scholarship (First Prize), Tsinghua University.|
 | *2021* | GuoQiang Scholarship, Tsinghua University.|
 | *2020* | Excellent Graduate, Tsinhuga University.|
 
