@@ -26,7 +26,7 @@ Publications
 | **A Situation-aware Enhancer for Personalized Recommendation** |
 | :------ |  
 | **Jiayu Li**, Peijie Sun, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang |
-| DASFAA 2024. [Preprint Version](https://arxiv.org/abs/2403.18317)
+| DASFAA 2024 (Full paper). [Preprint Version](https://arxiv.org/abs/2403.18317)
 
 | **Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations**|
 | :------ |  
@@ -103,9 +103,16 @@ Publications
 |Vadim Grigorev, **Jiayu Li**, Weizhi Ma, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang|
 |CHIIR 2024 (Resource paper). [Online Version](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|
 
+|**Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation**|
+| :------ | 
+|Hanyu Li, Weizhi Ma, Peijie Sun, **Jiayu Li**, Cunxiang Yin, Yancheng He, Guoqiang Xu, Min Zhang, Shaoping Ma|
+|SIGIR 2024 (Full paper). [Preprint Version](http://arxiv.org/abs/2403.20296)|
+
+
 Patents
 ======
-- 张敏,李佳玉,刘奕群,马少平,苏航,张抒扬,金晔,张磊. 患病率的预测方法、装置、计算机设备和存储介质. (中国专利)。
+- 张敏,李佳玉,刘奕群,马少平,苏航,张抒扬,金晔,张磊. 患病率的预测方法、装置、计算机设备和存储介质. (中国专利).
+
 
 Experience
 ======
