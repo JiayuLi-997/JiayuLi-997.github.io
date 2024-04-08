@@ -71,7 +71,7 @@ Publications
 | **Know Yourself: Physical and Psychological Self-awareness with Lifelog**|  
 | :------ |  
 | **Jiayu Li**, Weizhi Ma, Min Zhang, Pengyu Wang, Yiqun Liu, Shaoping Ma. |  
-| Frontiers in Ditigal Health. [Online Version](https://JiayuLi-997.github.io/files/Frontiers2021-LiJY-Lifelog.pdf)|  
+| Frontiers in Digital Health. [Online Version](https://JiayuLi-997.github.io/files/Frontiers2021-LiJY-Lifelog.pdf)|  
 
 | **A multi-level interactive lifelog search engine with user feedback**|  
 | :------ |  
