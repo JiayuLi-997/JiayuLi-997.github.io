@@ -109,11 +109,6 @@ Publications
 |SIGIR 2024 (Full paper). [Preprint Version](http://arxiv.org/abs/2403.20296)|
 
 
-% Patents
-% ======
-% - 张敏,李佳玉,刘奕群,马少平,苏航,张抒扬,金晔,张磊. 患病率的预测方法、装置、计算机设备和存储介质. (中国专利).
-
-
 Experience
 ======
 | Year | Experience |
