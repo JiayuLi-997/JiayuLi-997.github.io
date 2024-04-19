@@ -23,6 +23,13 @@ Education
 Publications
 ======
 
+**User Intents and Dynamic Context in Recommender Systems**
+
+| **Intent-aware Ranking Ensemble for Personalized Recommendation**|  
+| :------ |  
+| **Jiayu Li**, Peijie Sun, Zhefan Wang, Weizhi Ma, Yangkun Li, Min Zhang, Zhoutian Feng, Daiyue Xue. |  
+| SIGIR 2023 (Full paper). [Online Version](https://arxiv.org/abs/2304.07450)|  
+
 | **A Situation-aware Enhancer for Personalized Recommendation** |
 | :------ |  
 | **Jiayu Li**, Peijie Sun, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang |
@@ -32,11 +39,6 @@ Publications
 | :------ |  
 | **Jiayu Li**, Aixin Sun, Weizhi Ma, Peijie Sun, Min Zhang |
 | Arxiv 2024. [Online Version](https://arxiv.org/html/2402.14440v1) |
-
-| **Intent-aware Ranking Ensemble for Personalized Recommendation**|  
-| :------ |  
-| **Jiayu Li**, Peijie Sun, Zhefan Wang, Weizhi Ma, Yangkun Li, Min Zhang, Zhoutian Feng, Daiyue Xue. |  
-| SIGIR 2023 (Full paper). [Online Version](https://arxiv.org/abs/2304.07450)|  
 
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets**|  
 | :------ |  
@@ -48,20 +50,49 @@ Publications
 | **Jiayu Li**, Hongyu Lu, Chenyang Wang, Weizhi Ma, Min Zhang, Xiangyu Zhao, Wei Qi, Yiqun Liu, Shaoping Ma. |  
 | KDD 2021 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/.pdf)|  
 
-| **Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution**|  
+| **LifeRec: A Mobile App for Lifelog Recording and Ubiquitous Recommendation**|  
 | :------ |  
-| Jiayin Wang, Weizhi Ma, **Jiayu Li**, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. |  
-| KDD 2022 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
+| **Jiayu Li**, Hantian Zhang, Zhiyu He, Rongwu Xu, Pingfei Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
+| CHIIR 2022 (Demo paper). [Online Version](https://JiayuLi-997.github.io/files/CHIIR2022-LiJY-LifeRec_Demo.pdf)|  
+
+|**SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals**|
+| :------ |  
+|Vadim Grigorev, **Jiayu Li**, Weizhi Ma, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang|
+|CHIIR 2024 (Resource paper). [Online Version](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|
+
+**Interdisciplinary cooperation**
 
 |**Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development and Evaluation of a Two-step Machine Learning Method**|
 | :------ |  
 |**Jiayu Li**, Zhiyu He, Min Zhang, Weizhi Ma, Ye Jin, Lei Zhang, Shuyang Zhang, Yiqun Liu, Shaoping Ma. |
 |JMIR Infodemiology (Vol 3, 2023) . [Online Version](https://infodemiology.jmir.org/2023/1/e42721/)|
 
-| **LifeRec: A Mobile App for Lifelog Recording and Ubiquitous Recommendation**|  
+|**Factors influencing passage of time judgment in individuals’ daily lives: evidence from the experience sampling and diary methods**|
 | :------ |  
-| **Jiayu Li**, Hantian Zhang, Zhiyu He, Rongwu Xu, Pingfei Wu, Min Zhang, Yiqun Liu, Shaoping Ma. |  
-| CHIIR 2022 (Demo paper). [Online Version](https://JiayuLi-997.github.io/files/CHIIR2022-LiJY-LifeRec_Demo.pdf)|  
+|Yanci Liu, Siyu Ma, **Jiayu Li**, Xi Song, Feng Du, Meihong Zheng|
+|Psychological Research (2023.07).|
+
+|**Epidemiological research on rare diseases using large-scale online search queries and reported case data**|
+| :------ |  
+|Lei Zhang, Ye Jin, **Jiayu Li**, Zhiyu He, Dingding Zhang, Min Zhang, Shuyang Zhang|
+|Orphanet Journal of Rare Diseases (2023.08). [Online Version](https://link.springer.com/article/10.1186/s13023-023-02839-7)|
+
+**Other Publications**
+
+|**Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation**|
+| :------ | 
+|Hanyu Li, Weizhi Ma, Peijie Sun, **Jiayu Li**, Cunxiang Yin, Yancheng He, Guoqiang Xu, Min Zhang, Shaoping Ma|
+|SIGIR 2024 (Full paper). [Preprint Version](http://arxiv.org/abs/2403.20296)|
+
+|**Understanding User Immersion in Online Short Video Interaction**|
+| :------ |  
+|Zhiyu He, Shaorun Zhang, Peijie Sun, **Jiayu Li**, Xiaohui Xie, Min Zhang, Yiqun Liu|
+|CIKM 2023 (Full paper). [Online Version](https://dl.acm.org/doi/pdf/10.1145/3583780.3615099)|
+
+| **Make Fairness More Fair: Fair Item Utility Estimation and Exposure Re-Distribution**|  
+| :------ |  
+| Jiayin Wang, Weizhi Ma, **Jiayu Li**, Hongyu Lu, Min Zhang, Biao Li, Yiqun Liu, Peng Jiang, Shaoping Ma. |  
+| KDD 2022 (Full paper). [Online Version](https://JiayuLi-997.github.io/files/KDD2022-WangJY-fairness.pdf)|  
 
 | **THUIR-LL at the NTCIR-16 Lifelog-4 Task: Enhanced Interactive Lifelog Search Engine**|  
 | :------ |  
@@ -83,34 +114,10 @@ Publications
 | **Jiayu Li**, Ziyi Ye, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma |  
 | NTCIR-15 (First place). [Online Version](https://JiayuLi-997.github.io/files/NTCIR2020-LiJY-MART.pdf)|  
 
-|**Factors influencing passage of time judgment in individuals’ daily lives: evidence from the experience sampling and diary methods**|
-| :------ |  
-|Yanci Liu, Siyu Ma, **Jiayu Li**, Xi Song, Feng Du, Meihong Zheng|
-|Psychological Research (2023.07).|
-
-|**Epidemiological research on rare diseases using large-scale online search queries and reported case data**|
-| :------ |  
-|Lei Zhang, Ye Jin, **Jiayu Li**, Zhiyu He, Dingding Zhang, Min Zhang, Shuyang Zhang|
-|Orphanet Journal of Rare Diseases (2023.08). [Online Version](https://link.springer.com/article/10.1186/s13023-023-02839-7)|
-
-|**Understanding User Immersion in Online Short Video Interaction**|
-| :------ |  
-|Zhiyu He, Shaorun Zhang, Peijie Sun, **Jiayu Li**, Xiaohui Xie, Min Zhang, Yiqun Liu|
-|CIKM 2023 (Full paper). [Online Version](https://dl.acm.org/doi/pdf/10.1145/3583780.3615099)|
-
-|**SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals**|
-| :------ |  
-|Vadim Grigorev, **Jiayu Li**, Weizhi Ma, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang|
-|CHIIR 2024 (Resource paper). [Online Version](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|
-
-|**Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation**|
-| :------ | 
-|Hanyu Li, Weizhi Ma, Peijie Sun, **Jiayu Li**, Cunxiang Yin, Yancheng He, Guoqiang Xu, Min Zhang, Shaoping Ma|
-|SIGIR 2024 (Full paper). [Preprint Version](http://arxiv.org/abs/2403.20296)|
-
 
 Experience
 ======
+
 | Year | Experience |
 | :------ | :------ |
 | *12.2021-* | Meituan, Internship. |
