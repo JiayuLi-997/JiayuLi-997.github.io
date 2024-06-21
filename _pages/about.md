@@ -60,6 +60,13 @@ Publications
 |Vadim Grigorev, **Jiayu Li**, Weizhi Ma, Zhiyu He, Min Zhang, Yiqun Liu, Ming Yan, Ji Zhang|
 |CHIIR 2024 (Resource paper). [Online Version](https://dl.acm.org/doi/abs/10.1145/3627508.3638343)|
 
+**Recommender System Toolkit**
+
+|**ReChorus2.0: A Modular and Task-Flexible Recommendation Library**|
+| :------ |  
+|**Jiayu Li**, Hanyu Li, Zhiyu He, Weizhi Ma, Peijie Sun, Min Zhang, Shaoping Ma |
+| Arxiv 2024. [Online Version](https://arxiv.org/abs/2405.18058); [GitHub Repo](https://github.com/THUwangcy/ReChorus/tree/master)|
+
 **Interdisciplinary cooperation**
 
 |**Estimating Rare Disease Incidences With Large-scale Internet Search Data: Development and Evaluation of a Two-step Machine Learning Method**|
@@ -120,7 +127,8 @@ Experience
 
 | Year | Experience |
 | :------ | :------ |
-| *12.2021-* | Meituan, Internship. |
+| *05.2024-* | TikTok E-Commerce, Internship. |
+| *04.2022-01.2023* | Meituan, Internship. |
 | *07.2019-09.2019* | Sogou. Inc, Internship. |
 
 
@@ -132,7 +140,7 @@ Honor and Awards
 | :------ | :------ | 
 | *2023* | JiuKun Scholarship (First Prize), Tsinghua University.|
 | *2021* | GuoQiang Scholarship, Tsinghua University.|
-| *2020* | Excellent Graduate, Tsinhuga University.|
+| *2020* | Excellent Graduate, Tsinghua University.|
 
 <!-- | Year | Honor & Awards |
 | :------ | :------ | 
