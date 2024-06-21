@@ -16,7 +16,7 @@ Education
 | Year | Education |
 | :------ | :------ | 
 | *08.2020-present* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China. |
-| *09.2023-01.2024* | Visiting student, School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. |
+| *09.2023-01.2024* | Visiting student, School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. (Supervisor: Prof. Sun Aixin)|
 | *09.2016-06.2020* | B.E., Department of Electronic Engineering, Tsinghua University, China. |
 
 
