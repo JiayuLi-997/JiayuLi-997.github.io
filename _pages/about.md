@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR](https://thuir.github.io/lab-website-template/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang). My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
+I am now a fifth year Ph.D. student in [THUIR](https://thuir.github.io/lab-website-template/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang). My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
 
 Education
 ======
@@ -35,10 +35,10 @@ Publications
 | **Jiayu Li**, Peijie Sun, Chumeng Jiang, Weizhi Ma, Qingyao Ai, Min Zhang |
 | DASFAA 2024 (Full paper). [Preprint Version](https://arxiv.org/abs/2403.18317)
 
-| **Recommender for Its Purpose: Repeat and Exploration in Food Delivery Recommendations**|
+| **Right Tool, Right Job: Recommendation for Repeat and Exploration Consumption in Food Delivery**|
 | :------ |  
 | **Jiayu Li**, Aixin Sun, Weizhi Ma, Peijie Sun, Min Zhang |
-| Arxiv 2024. [Online Version](https://arxiv.org/html/2402.14440v1) |
+| RecSys 2024 (Research Full paper). [preprint Version](https://arxiv.org/html/2402.14440v1) |
 
 | **Towards Ubiquitous Personalized Music Recommendation with Smart Bracelets**|  
 | :------ |  
@@ -65,7 +65,7 @@ Publications
 |**ReChorus2.0: A Modular and Task-Flexible Recommendation Library**|
 | :------ |  
 |**Jiayu Li**, Hanyu Li, Zhiyu He, Weizhi Ma, Peijie Sun, Min Zhang, Shaoping Ma |
-| Arxiv 2024. [Online Version](https://arxiv.org/abs/2405.18058); [GitHub Repo](https://github.com/THUwangcy/ReChorus/tree/master)|
+| RecSys 2024 (Reproducibility long paper). [Preprint Version](https://arxiv.org/abs/2405.18058); [GitHub Repo](https://github.com/THUwangcy/ReChorus/tree/master)|
 
 **Interdisciplinary cooperation**
 
