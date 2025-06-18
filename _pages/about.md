@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am now a fifth year Ph.D. student in [THUIR](https://thuir.github.io/lab-website-template/), Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang). 
+Ph.D. Graduate | Tsinghua University (THUIR lab)
+Algorithm Engineer @ ByteDance
+Supervised by Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang).
 
 My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
 
@@ -16,9 +18,19 @@ Education
 
 | Year                | Education                                                                                                                                      |
 | :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| *08.2020-present* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.                                                      |
+| *08.2020-06.2025* | Ph.D. student, Department of Computer Science and Technology, Tsinghua University, China.                                                      |
 | *09.2023-01.2024* | Visiting student, School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore. (Supervisor: Prof. Sun Aixin) |
 | *09.2016-06.2020* | B.E., Department of Electronic Engineering, Tsinghua University, China.                                                                        |
+
+Experience
+==========
+
+| Year                | Experience                     |
+| :------------------ | :----------------------------- |
+| *06.2025-Present* | TikTok E-Commerce, Algorithm Engineer. |
+| *05.2024-10.2024* | TikTok E-Commerce, Internship. |
+| *04.2022-01.2023* | Meituan, Internship.           |
+| *07.2019-09.2019* | Sogou. Inc, Internship.        |
 
 Publications
 ============
@@ -131,15 +143,6 @@ Publications
 | :------------------------------------------------------------------------------------------------ |
 | **Jiayu Li**, Ziyi Ye, Weizhi Ma, Min Zhang, Yiqun Liu, Shaoping Ma                         |
 | NTCIR-15 (First place).[Online Version](https://JiayuLi-997.github.io/files/NTCIR2020-LiJY-MART.pdf) |
-
-Experience
-==========
-
-| Year                | Experience                     |
-| :------------------ | :----------------------------- |
-| *05.2024-10.2024* | TikTok E-Commerce, Internship. |
-| *04.2022-01.2023* | Meituan, Internship.           |
-| *07.2019-09.2019* | Sogou. Inc, Internship.        |
 
 Honor and Awards
 ================
