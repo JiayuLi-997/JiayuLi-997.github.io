@@ -11,7 +11,7 @@ Ph.D. Graduate | Tsinghua University (THUIR lab)
 Algorithm Engineer @ ByteDance
 Supervised by Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang).
 
-My major research interests are about recommender system, user intent understanding, lifelogging, ubiquitous recommendation, and etc.
+My research interests lie in industrial recommender systems, particularly in large-scale recommendation models and modeling long sequences of user behaviors.
 
 Education
 =========
@@ -34,8 +34,20 @@ Experience
 
 Publications
 ============
+**Industrial Recommender Systems**
+
+| **HELIX: Purified and Unified - Rethinking Feature Interaction and Sequence Modeling for Large-Scale Recommendation**                                   |
+| :-------------------------------------------------------------------------------------------------------- |
+| Yuntao Zheng, Miao Zhang, Yadong Ding, Yanchuan Tang, Lixiyu Chen, Hao Wang, Quan Li, Shiying Cai, Yue Lin, **Jiayu Li**, Yu Feng, Wentao Yang, Rongkun Xing, Jiekai Wang, Mingge Zhang, Feiling Gong, Xiang Gao, Jinyu Dong, Yajing Zhang, Pengfei Ren, Yinzhou Wang |
+| Arxiv 2026.[Online Version](https://arxiv.org/abs/2609.37183) 
+
 
 **User Intents and Dynamic Context in Recommender Systems**
+
+| **Are Recommenders Self-Aware? Label-Free Recommendation Performance Estimation via Model Uncertainty**                                   |
+| :-------------------------------------------------------------------------------------------------------- |
+| Ziyi Ye, **Jiayu Li**, Guohao Jian, Zhiqiang Guo, Yutong Li, Weizhi Ma, Qingyao Ai, Min Zhang |
+| TOIS 2026.[Preprint Version](https://arxiv.org/abs/2507.23208) 
 
 | **Intent-aware Ranking Ensemble for Personalized Recommendation**                                   |
 | :-------------------------------------------------------------------------------------------------------- |
@@ -98,6 +110,11 @@ Publications
 | Orphanet Journal of Rare Diseases (2023.08).[Online Version](https://link.springer.com/article/10.1186/s13023-023-02839-7) |
 
 **Other Publications**
+| User Immersion-Aware Short Video Recommendation                                                                                   |
+| :------------------------------------------------------------------------------------------------------------------------------- |
+| Zhiyu He, Shaorun Zhang, Weizhi Ma, **Jiayu Li**, Peijie Sun, Qingyao Ai, Yiqun Liu, Min Zhang |
+| TOIS 2025. [Online Version](https://dl.acm.org/doi/full/10.1145/3748303)                                                                      |
+
 
 | Evaluating Intelligence via Trial and Error                                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------------- |
