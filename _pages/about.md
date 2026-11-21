@@ -110,6 +110,7 @@ Publications
 | Orphanet Journal of Rare Diseases (2023.08).[Online Version](https://link.springer.com/article/10.1186/s13023-023-02839-7) |
 
 **Other Publications**
+
 | User Immersion-Aware Short Video Recommendation                                                                                   |
 | :------------------------------------------------------------------------------------------------------------------------------- |
 | Zhiyu He, Shaorun Zhang, Weizhi Ma, **Jiayu Li**, Peijie Sun, Qingyao Ai, Yiqun Liu, Min Zhang |
