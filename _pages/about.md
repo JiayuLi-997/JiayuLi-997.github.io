@@ -9,11 +9,9 @@ redirect_from:
 ---
 Algorithm Engineer @ ByteDance
 
-Ph.D. Graduate | Tsinghua University (THUIR lab)
+Ph.D. Graduate from Tsinghua University (THUIR lab). Supervised by Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang).
 
-Supervised by Prof. [Min Zhang](http://www.thuir.cn/group/~mzhang).
-
-My research interests lie in industrial recommender systems, particularly in large-scale recommendation models and modeling long sequences of user behaviors.
+My current research interests lie in industrial recommender systems, particularly in large-scale recommendation models and modeling long sequences of user behaviors.
 
 Education
 =========
